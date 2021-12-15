@@ -30,8 +30,8 @@
   position:absolute;
   top: 0.4em;
   bottom: 0.4em;
-  padding: 13.6em;
-  left: 77.3em;
+  padding: 12.2em;
+  left: 70em;
   width: 28%;
   max-width:15%;
   margin: 0.5px;
@@ -96,7 +96,7 @@ img{
   font-family:Georgia, 'Times New Roman', Times, serif;
   position:relative;
   font-weight: bold;
-  left: 42em;
+  left: 35em;
 }
 .cityname1{
   color: white;
@@ -104,7 +104,7 @@ img{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   position:relative;
   font-weight: bold;
-  left: 39em;
+  left: 31.8em;
 }
 .temp{
   color: white;
@@ -112,7 +112,7 @@ img{
   font-size: medium;
   position:relative;
   font-weight: bold;
-  left: 42em;
+  left: 35em;
 }
 #but{
   position: relative;
@@ -164,24 +164,26 @@ img{
 }
 #hh{
   position:absolute;
-  top:7em;
+  top:5.9em;
   left:1.7em;
 }
 #i1{
   position:absolute;
-  top:11em;
+  top:10em;
   left:6.5em;
   border: 2px darkblue;
   background-color:darkblue;
   border-radius:30%;
-  width: 34%;
-  max-width: 38%;
+  width: 31%;
+  height: 33%;
+  max-width: 32%;
 }
 #ii {
   position:absolute;
   bottom:2em;
   left:6.5em;
-  width: 34%;
+  width: 31%;
+  height: 33%;
   border-radius:30%;
 }
 #h11{
@@ -191,8 +193,8 @@ img{
 #i2{
   position:absolute;
   bottom:2em;
-  left:34em;
-  width: 34%;
+  left:29em;
+  width: 33.3%;
   max-width: 34%;
   border: 2px darkblue;
   background-color:darkblue;
@@ -207,7 +209,7 @@ img{
 }
 #i4{
   position:absolute;
-  top:20em;
+  top:18em;
   left:2.1em;
   width: 47%;
   border-radius:30%;
